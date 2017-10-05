@@ -1,0 +1,9 @@
+*.pyc
+*~
+__pycache__
+myvenv
+venv-instaofficial
+.venv-instaofficial
+db.sqlite3
+/static
+.DS_Store
